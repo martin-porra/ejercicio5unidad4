@@ -1,0 +1,32 @@
+[
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "Peter",
+            "apellido": "Parker",
+            "telefono": "43156808",
+            "altura": "191",
+            "peso": "79"
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "Bruce",
+            "apellido": "Wayne",
+            "telefono": 4242231,
+            "altura": 170,
+            "peso": 60
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "San",
+            "apellido": "Martin",
+            "telefono": 424221,
+            "altura": 175,
+            "peso": 45
+        }
+    }
+]
